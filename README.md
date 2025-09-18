@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there, I'm Preethi 👋
 
-<!--
-**PREETHI-T0511/PREETHI-T0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about programming, problem solving, and building projects.  
+📚 Currently learning **Data Structures & Algorithms** and exploring **Web Development**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 🏆 [Codeforces](https://codeforces.com/profile/PREETHI.T)
+- 💡 [LeetCode](https://leetcode.com/u/preethitspv/)
+- 🐙 [GitHub](https://github.com/PREETHI-T0511)
+
+---
+
+## 🚀 Skills
+- **Languages**: C++, C, python 
+- **Core**: Data Structures  
+- **Web**: HTML, CSS, JavaScript  
+
+---
+
+## 💼 Projects
+- **Smart Bin (IoT Project)**  
+  Automated waste management system using ESP32, sensors, and Blynk.  
+
+- **More Projects Coming Soon...**
+
+---
+
+## 📫 Contact
+- ✉️ Email: preethitatikonda@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/preethi-tatikonda-974416330/
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to connect with me.*
